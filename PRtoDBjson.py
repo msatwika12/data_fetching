@@ -144,7 +144,7 @@ def main():
     db_config = {
         'dbname': 'PullRequestDatabase', #DataBase Name
         'user': 'postgres', #mention the username
-        'password': 'Srikala@76', # provide the password for postgresql
+        'password': 'abc@76', # provide the password for postgresql
         'host': 'localhost',  #localhost or some other
         'port': '5432' #mention the port number
     }
