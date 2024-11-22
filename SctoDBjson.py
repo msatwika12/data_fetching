@@ -146,7 +146,7 @@ if __name__ == "__main__":
     db_config = {
         'dbname': 'PullRequestDatabase',  # Database name
         'user': 'postgres',              # PostgreSQL username
-        'password': 'Srikala@76',        # PostgreSQL password
+        'password': 'abc@76',        # PostgreSQL password
         'host': 'localhost',             # Host (localhost or other)
         'port': '5432'                   # Port number
     }
